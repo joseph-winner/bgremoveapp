@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "bgwebview",
+    "slug": "bgwebview",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Appicon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Appicon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "82aa91d6-21cc-4137-be90-5af20ed58558"
+      }
+    },
+    "owner": "muhanguzi"
+  }
+}
